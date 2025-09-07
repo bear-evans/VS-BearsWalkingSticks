@@ -1,0 +1,12 @@
+{
+  "code": "crudewalkingstick",
+  "creativeinventory": {
+    "general": ["*"]
+  },
+  "texture": {
+    "base": "game:blocks/wood/firewood/bark"
+  },
+  "shape": {
+    "base": "item/simple-rod" 
+  }
+}
